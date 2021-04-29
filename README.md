@@ -1,5 +1,5 @@
-# Photoeditor_master
-                                                          Setup Instruction:
+# Setup Instruction:
+                                                          
 λ	Extract Zip file.
 λ	Load App code Into Android Studio 4.0
 λ	Change package name there are different ways one of them you can check by this link: https://stackoverflow.com/questions/16804093/rename-package-in-android-studio
@@ -8,13 +8,6 @@
 λ	FOR FACEBOOK  :- Once you created Facebook interstitial Ad ID, Just paste Id here : in root directory open file
 υ	src/main/res/values/strings.xml
 υ	Line 66 which is mentioned in Screen Shot 
-
-
-
-
-
-
-
 
 λ	FOR GOOGLE AdMob
 λ	Another now you have to create Google App in AdMob for another Ad ID: 
